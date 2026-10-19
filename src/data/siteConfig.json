@@ -1,0 +1,25 @@
+{
+  "name": "Festa Brincar",
+  "segmento": "Aluguel de brinquedos",
+  "schemaType": "EntertainmentBusiness",
+  "postUrlPrefix": "",
+  "description": "Aluguel de brinquedos para festas em São Paulo: cama elástica, castelo inflável, tobogã, piscina de bolinhas, touro mecânico, futebol de sabão e máquinas de festa. Entrega, montagem, higienização e monitor. Reserve a data.",
+  "ctaLabel": "Reservar brinquedos",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@festabrincar.com.br",
+  "address": "São Paulo — SP",
+  "hours": "Seg a Sáb, 8h às 18h • Dom sob agenda",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua do Brincar, 000 — galpão 0",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

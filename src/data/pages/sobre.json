@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Festa Brincar",
+    "description": "Mais de 10 anos animando festas em São Paulo com aluguel de brinquedos higienizados, entrega, montagem e monitor. Conheça a Festa Brincar."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Brinquedos de festa com quem cuida de cada detalhe.",
+      "lead": "Mais de uma década animando festas infantis e eventos em São Paulo e região.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "10+ anos de experiência",
+      "title": "Brinquedos de festa com quem cuida de cada detalhe.",
+      "lead": "Atendemos desde aniversário em casa até grandes eventos, sempre com brinquedos higienizados, montagem própria e monitor.",
+      "benefits": [
+        "Equipe própria de entrega e montagem",
+        "Infláveis, cama elástica, piscina de bolinhas e mais",
+        "Brinquedos higienizados e com seguro",
+        "Orçamento gratuito para a sua festa"
+      ],
+      "cta": { "label": "Reservar brinquedos", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Festas atendidas" },
+        { "value": "30+", "label": "Brinquedos no catálogo" },
+        { "value": "98%", "label": "Clientes que indicam" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas da reserva à diversão.",
+      "steps": [
+        { "n": "01", "title": "Reserva", "text": "Envie a data, o local e a idade da criançada pelo WhatsApp." },
+        { "n": "02", "title": "Entrega e montagem", "text": "Levamos, montamos e testamos antes da festa começar." },
+        { "n": "03", "title": "Diversão", "text": "A criançada brinca com monitor e a gente desmonta depois." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que as famílias dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "O castelo inflável chegou montado e limpinho, as crianças amaram.", "name": "Roberta L.", "role": "Cliente — Tatuapé" },
+        { "quote": "Piscina de bolinhas e monitor, ficou tudo organizado e seguro.", "name": "Mariana D.", "role": "Cliente — Moema" },
+        { "quote": "Entregaram no horário e desmontaram sem estresse nenhum.", "name": "Thomas L.", "role": "Cliente — Lapa" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve os brinquedos da sua festa.",
+      "services": ["Cama elástica (pula-pula)", "Castelo inflável", "Tobogã inflável", "Escorregador inflável", "Piscina de bolinhas", "Touro mecânico", "Futebol de sabão", "Jogos eletrônicos (fliperama e totó)", "Máquinas de festa (algodão doce e pipoca)"]
+    }}
+  ]
+}

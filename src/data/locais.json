@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Mooca"
+    ],
+    "referenciaLocal": "Atendemos todo o Tatuapé e a região da Anália Franco, dos salões de festa dos edifícios às casas e buffets infantis da Zona Leste, com entrega e montagem no horário combinado.",
+    "faq": [
+      {
+        "q": "Vocês entregam os brinquedos no Tatuapé?",
+        "a": "Sim. Fazemos entrega, montagem e desmontagem no Tatuapé e em toda a Zona Leste, sem custo extra dentro da região. Combinamos o horário para o brinquedo já estar pronto quando a festa começar."
+      },
+      {
+        "q": "Dá para montar inflável no salão de festas do prédio?",
+        "a": "Dá sim. Antes de fechar, conferimos a altura do pé-direito e a área disponível do salão para indicar o brinquedo que cabe com folga e segurança."
+      }
+    ]
+  },
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Mariana",
+      "Campo Belo",
+      "Brooklin"
+    ],
+    "referenciaLocal": "Levamos os brinquedos para festas em Moema, na Vila Mariana e no Campo Belo, atendendo apartamentos, casas e buffets da Zona Sul com equipe própria de montagem.",
+    "faq": [
+      {
+        "q": "Atendem festas em apartamento em Moema?",
+        "a": "Atendemos. Para apartamento indicamos os brinquedos que cabem no espaço do salão ou do playground, como piscina de bolinhas, cama elástica menor e máquinas de festa."
+      },
+      {
+        "q": "Vocês fornecem monitor para acompanhar as crianças?",
+        "a": "Sim. Pode incluir um ou mais monitores treinados, que organizam as brincadeiras e cuidam da segurança da criançada durante toda a festa."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Tucuruvi",
+      "Lauzane Paulista",
+      "Mandaqui"
+    ],
+    "referenciaLocal": "Atendemos Santana, o Tucuruvi e o Lauzane Paulista, das festas em casa aos eventos de escola e condomínio da Zona Norte, com brinquedos higienizados e seguro contra acidentes.",
+    "faq": [
+      {
+        "q": "Fazem festa de escola e evento de condomínio em Santana?",
+        "a": "Fazemos. Atendemos festas de escola, dia das crianças e eventos de condomínio na Zona Norte, com brinquedos para grupos grandes e monitores para organizar a fila."
+      },
+      {
+        "q": "Com quanto tempo de antecedência preciso reservar?",
+        "a": "O ideal é reservar com uma a duas semanas de antecedência, principalmente para fins de semana. Mas vale chamar mesmo em cima da hora, que verificamos a disponibilidade da data."
+      }
+    ]
+  },
+  {
+    "slug": "lapa",
+    "nome": "Lapa",
+    "prep": "na",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Pinheiros",
+      "Perdizes",
+      "Vila Leopoldina"
+    ],
+    "referenciaLocal": "Atendemos a Lapa, Perdizes e a Vila Leopoldina, dos quintais e áreas de lazer aos buffets e espaços de evento da Zona Oeste, com entrega pontual e montagem cuidadosa.",
+    "faq": [
+      {
+        "q": "Vocês montam touro mecânico e futebol de sabão na Lapa?",
+        "a": "Montamos. Esses brinquedos pedem uma área plana e um pouco maior, então conferimos o espaço antes para garantir a montagem com segurança no seu evento."
+      },
+      {
+        "q": "Os brinquedos são higienizados antes da festa?",
+        "a": "Sim. Todo brinquedo passa por higienização antes de cada entrega, e os infláveis e a piscina de bolinhas são limpos peça por peça para a criançada brincar com segurança."
+      }
+    ]
+  }
+]

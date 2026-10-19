@@ -1,0 +1,17 @@
+{
+  "name": "Festa",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#F6F0FF",
+    "ink": "#241245",
+    "ink-muted": "#5C4E7A",
+    "primary": "#6D28D9",
+    "secondary": "#DB2777",
+    "accent": "#7C3AED",
+    "accent-ink": "#FFFFFF",
+    "accent-strong": "#5B21B6",
+    "border": "#E7DEF6"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

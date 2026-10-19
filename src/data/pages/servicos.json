@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Brinquedos para festa — Festa Brincar",
+    "description": "Cama elástica, castelo inflável, tobogã, piscina de bolinhas, touro mecânico, futebol de sabão e máquinas de festa. Conheça todos os brinquedos da Festa Brincar em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos brinquedos",
+      "title": "Diversão sob medida para cada festa.",
+      "lead": "Do bebê ao adolescente, do inflável à máquina de festa — entregamos, montamos e cuidamos de tudo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Brinquedos", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Reservar brinquedos", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Brinquedos limpos e festa segura.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Equipe experiente", "text": "Time treinado em entrega e montagem." },
+        { "title": "Higienização garantida", "text": "Cada brinquedo é limpo antes da festa." },
+        { "title": "Orçamento sem compromisso", "text": "Resposta rápida pelo WhatsApp." },
+        { "title": "Entrega no horário", "text": "Brinquedo pronto antes de começar." },
+        { "title": "Famílias satisfeitas", "text": "Milhares de festas atendidas na região." },
+        { "title": "Seguro contra acidentes", "text": "Mais tranquilidade durante o evento." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve os brinquedos da sua festa.",
+      "services": ["Cama elástica (pula-pula)", "Castelo inflável", "Tobogã inflável", "Escorregador inflável", "Piscina de bolinhas", "Touro mecânico", "Futebol de sabão", "Jogos eletrônicos (fliperama e totó)", "Máquinas de festa (algodão doce e pipoca)"]
+    }}
+  ]
+}

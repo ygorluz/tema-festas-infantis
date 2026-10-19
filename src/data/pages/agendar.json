@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Reserve seus brinquedos — Festa Brincar",
+    "description": "Reserve cama elástica, castelo inflável, piscina de bolinhas ou qualquer brinquedo da Festa Brincar. Orçamento rápido para festas em São Paulo e região."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Reserve seus brinquedos",
+      "title": "Orçamento rápido em três etapas simples.",
+      "lead": "Informe os brinquedos e a data — a gente confirma a disponibilidade e o valor.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Reservar", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas da reserva à diversão.",
+      "steps": [
+        { "n": "01", "title": "Reserva", "text": "Envie a data, o local e a idade da criançada pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Entrega e montagem", "text": "Levamos, montamos e testamos antes da festa começar." },
+        { "n": "03", "title": "Diversão", "text": "A criançada brinca com monitor e a gente desmonta depois." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Cama elástica (pula-pula)", "Castelo inflável", "Tobogã inflável", "Escorregador inflável", "Piscina de bolinhas", "Touro mecânico", "Futebol de sabão", "Jogos eletrônicos (fliperama e totó)", "Máquinas de festa (algodão doce e pipoca)"]
+    }}
+  ]
+}

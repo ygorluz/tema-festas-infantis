@@ -1,0 +1,258 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de brinquedos em São Paulo",
+        "title": "Brinquedos para festa que deixam a criançada feliz.",
+        "lead": "Cama elástica, castelo inflável, tobogã, piscina de bolinhas e máquinas de festa para São Paulo e região. Entrega, montagem e monitor inclusos.",
+        "cta": {
+          "label": "Reservar brinquedos",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "320+ festas animadas"
+        },
+        "doctor": {
+          "name": "Equipe própria",
+          "role": "Entrega, montagem e monitor",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sáb, 8h às 18h • Dom sob agenda"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+10 anos animando festas em São Paulo",
+        "eyebrow": "Sobre a Festa Brincar",
+        "title": "Brinquedos limpos, montados e com monitor.",
+        "lead": "Cuidamos de tudo: entregamos no horário, montamos com a equipe própria, higienizamos cada brinquedo e deixamos um monitor cuidando da criançada.",
+        "benefits": [
+          "Equipe própria de entrega e montagem",
+          "Brinquedos higienizados antes de cada festa",
+          "Monitor treinado para cuidar das crianças",
+          "Seguro contra acidentes durante o evento"
+        ],
+        "cta": {
+          "label": "Conheça a locadora",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos brinquedos",
+        "title": "Diversão para todas as idades.",
+        "items": [
+          {
+            "title": "Cama elástica (pula-pula)",
+            "text": "Pula-pula com rede de proteção, em vários tamanhos."
+          },
+          {
+            "title": "Castelo inflável",
+            "text": "Pula-pula inflável colorido, com motor silencioso."
+          },
+          {
+            "title": "Piscina de bolinhas",
+            "text": "Cercado com bolinhas higienizadas para os pequenos."
+          },
+          {
+            "title": "Máquinas de festa",
+            "text": "Algodão doce, pipoca e cachorro-quente com operador."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os brinquedos",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "10+",
+            "label": "Anos animando festas"
+          },
+          {
+            "value": "5mil+",
+            "label": "Festas atendidas"
+          },
+          {
+            "value": "24h",
+            "label": "Resposta ao orçamento"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes que indicam"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Festa segura é festa sem preocupação.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Higienização garantida",
+            "text": "Cada brinquedo é limpo antes da sua festa."
+          },
+          {
+            "title": "Entrega no horário",
+            "text": "Brinquedo montado e testado antes de começar."
+          },
+          {
+            "title": "Monitor treinado",
+            "text": "Cuida das crianças e organiza as brincadeiras."
+          },
+          {
+            "title": "Seguro contra acidentes",
+            "text": "Tranquilidade para você e para os convidados."
+          },
+          {
+            "title": "Montagem inclusa",
+            "text": "A gente monta e desmonta, você só curte."
+          },
+          {
+            "title": "Combos com desconto",
+            "text": "Junte brinquedos e economize na festa."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos da reserva à diversão.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Reserva",
+            "text": "Conte a data, o local e a idade da criançada pelo WhatsApp."
+          },
+          {
+            "n": "02",
+            "title": "Entrega e montagem",
+            "text": "Levamos, montamos e testamos antes da festa começar."
+          },
+          {
+            "n": "03",
+            "title": "Diversão",
+            "text": "A criançada brinca com monitor e a gente desmonta depois."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Gente que cuida da sua festa.",
+        "members": [
+          {
+            "name": "Equipe de entrega",
+            "role": "Logística e horário",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Equipe de montagem",
+            "role": "Montagem e teste",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Monitores",
+            "role": "Cuidado com as crianças",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento",
+            "role": "Reserva e suporte",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que as famílias dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "O castelo inflável chegou montado e limpinho, as crianças não saíam de lá.",
+            "name": "Roberta L.",
+            "role": "Tatuapé"
+          },
+          {
+            "quote": "Aluguei a piscina de bolinhas e o monitor, ficou tudo organizado e seguro.",
+            "name": "Mariana D.",
+            "role": "Moema"
+          },
+          {
+            "quote": "Touro mecânico na festa do meu filho foi o sucesso da noite. Recomendo!",
+            "name": "Thiago S.",
+            "role": "Santana"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas para a sua festa.",
+        "items": [
+          {
+            "title": "Qual brinquedo escolher para cada idade",
+            "excerpt": "Do bebê ao adolescente: o brinquedo certo para a turma.",
+            "image": "/images/post-1.jpg",
+            "href": "/blog/brinquedo-por-idade"
+          },
+          {
+            "title": "Como montar uma festa infantil segura",
+            "excerpt": "Higiene, monitor e espaço: o que conferir antes.",
+            "image": "/images/post-2.jpg",
+            "href": "/blog/festa-infantil-segura"
+          },
+          {
+            "title": "Combo de brinquedos: como economizar",
+            "excerpt": "Juntar brinquedos sai mais barato que alugar separado.",
+            "image": "/images/post-3.jpg",
+            "href": "/blog/combo-de-brinquedos-economia"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Reserve os brinquedos da sua festa.",
+        "services": [
+          "Cama elástica (pula-pula)",
+          "Castelo inflável",
+          "Tobogã inflável",
+          "Piscina de bolinhas",
+          "Touro mecânico",
+          "Máquinas de festa"
+        ]
+      }
+    }
+  ]
+}

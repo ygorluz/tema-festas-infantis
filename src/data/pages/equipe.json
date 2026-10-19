@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Festa Brincar",
+    "description": "Equipe de entrega, montagem e monitores treinados para animar festas em São Paulo com segurança. Conheça o time da Festa Brincar."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Gente que cuida da sua festa com carinho.",
+      "lead": "Profissionais treinados em entrega, montagem e no cuidado com a criançada.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Entrega e logística", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Montagem de infláveis", "photo": "/images/team-2.jpg" },
+        { "name": "Juliana Ferreira", "role": "Monitora de festas", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Atendimento e reservas", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Festas atendidas" },
+        { "value": "30+", "label": "Brinquedos no catálogo" },
+        { "value": "98%", "label": "Clientes que indicam" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Reserve os brinquedos da sua festa.",
+      "services": ["Cama elástica (pula-pula)", "Castelo inflável", "Tobogã inflável", "Escorregador inflável", "Piscina de bolinhas", "Touro mecânico", "Futebol de sabão", "Jogos eletrônicos (fliperama e totó)", "Máquinas de festa (algodão doce e pipoca)"]
+    }}
+  ]
+}
